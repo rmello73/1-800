@@ -1,0 +1,109 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4Qdk8Q6czvz3Jht; Sat, 10 Jun 2023 09:35:34 -0700 (PDT)
+Date: Sat, 10 Jun 2023 09:35:34 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4Qdk8Q40nVz3GSh.1686414934/vps11553.dreamhostps.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <4Qdk8Q6czvz3Jht@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4Qdk8Q40nVz3GSh.1686414934/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<ronmellojr@gmail.com>: host gmail-smtp-in.l.google.com[172.253.62.26] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    j1-20020a05620a288100b0075dc7ca0bf4si3656125qkp.542 - gsmtp (in reply to
+    end of DATA command)
+
+--4Qdk8Q40nVz3GSh.1686414934/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4Qdk8Q40nVz3GSh
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Sat, 10 Jun 2023 09:35:34 -0700 (PDT)
+
+Final-Recipient: rfc822; ronmellojr@gmail.com
+Original-Recipient: rfc822;ronmellojr@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    j1-20020a05620a288100b0075dc7ca0bf4si3656125qkp.542 - gsmtp
+
+--4Qdk8Q40nVz3GSh.1686414934/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4Qdk8Q40nVz3GSh; Sat, 10 Jun 2023 09:35:34 -0700 (PDT)
+To: ronmellojr@gmail.com
+Subject: =?us-ascii?Q?[David_Ackroyd_Mason,_RI]_Please_moderate:_"Hel?=
+ =?us-ascii?Q?lo_world!"?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Sat, 10 Jun 2023 16:35:34 +0000
+From: "David Ackroyd Mason, RI" <ronmellojr@gmail.com>
+Message-ID: <cr10uvM8UXnij3isfbMQ4ghTccKqgqgcM8oNcqBk8@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.7.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Hello world!" is waiting for your approval
+https://hardscaperi.com/hello-world/
+
+Author: dixie (IP address: 38.97.116.244, 38.97.116.244)
+Email: 18726@gmail.com
+URL: http://prephe.ro/Phqn
+Comment: 
+I’ll spread my legs if you’ll spread my pussy http://prephe.ro/Phqn
+
+Approve it: https://hardscaperi.com/wp-admin/comment.php?action=approve&c=185#wpbody-content
+Trash it: https://hardscaperi.com/wp-admin/comment.php?action=trash&c=185#wpbody-content
+Spam it: https://hardscaperi.com/wp-admin/comment.php?action=spam&c=185#wpbody-content
+Currently 67 comments are waiting for approval. Please visit the moderation panel:
+https://hardscaperi.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--4Qdk8Q40nVz3GSh.1686414934/vps11553.dreamhostps.com--

@@ -1,0 +1,110 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4RXx365NZTz3NB5; Sat, 26 Aug 2023 05:29:38 -0700 (PDT)
+Date: Sat, 26 Aug 2023 05:29:38 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4RXx360zd0z3NB2.1693052978/vps11553.dreamhostps.com"
+Message-Id: <4RXx365NZTz3NB5@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4RXx360zd0z3NB2.1693052978/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<masonackroyd@gmail.com>: host gmail-smtp-in.l.google.com[142.251.163.26] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    rh7-20020a05620a8f0700b0076d9a7b0971si2180998qkn.146 - gsmtp (in reply to
+    end of DATA command)
+
+--4RXx360zd0z3NB2.1693052978/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4RXx360zd0z3NB2
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Sat, 26 Aug 2023 05:29:38 -0700 (PDT)
+
+Final-Recipient: rfc822; masonackroyd@gmail.com
+Original-Recipient: rfc822;masonackroyd@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    rh7-20020a05620a8f0700b0076d9a7b0971si2180998qkn.146 - gsmtp
+
+--4RXx360zd0z3NB2.1693052978/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4RXx360zd0z3NB2; Sat, 26 Aug 2023 05:29:38 -0700 (PDT)
+To: masonackroyd@gmail.com
+Subject: =?us-ascii?Q?New_Message_From_David_Ackroyd_Mason,_RI_-_Cont?=
+ =?us-ascii?Q?act_David!?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Sat, 26 Aug 2023 12:29:38 +0000
+From: Tigran Ayrapetyan <ronmellojr@gmail.com>
+Reply-To: "\"Tigran Ayrapetyan\"" <ujn2esbgakah@opayq.com>
+Message-ID: <GHzHlQvDvu1EORzo8jlstRXOD9fIOVGpUmOeYmrM@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.8.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello, 
+ 
+We provide funding through our venture capital company to both start-up and existing companies either looking for funding for expansion or to accelerate growth in their company. 
+We have a structured joint venture investment plan in which we are interested in an annual return on investment not more than 10% ROI. We are also currently structuring a convertible debt and loan financing of 3% interest repayable annually with no early repayment penalties. 
+ 
+We would like to review your business plan or executive summary to understand a much better idea of your business and what you are looking to do, this will assist in determining the best possible investment structure we can pursue and discuss more extensively. 
+ 
+ 
+I hope to hear back from you soon. 
+ 
+Sincerely, 
+ 
+Tigran Ayrapetyan 
+Investment Director 
+Devcorp International E.C. 
+P.O Box 10236 Shop No. 305 
+Flr 3 Manama Centre, Bahrain 
+Email: tigran.a@devcorpinternationalec.com
+
+
+--4RXx360zd0z3NB2.1693052978/vps11553.dreamhostps.com--

@@ -1,0 +1,140 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4RN6HF6lsVz3MCr; Fri, 11 Aug 2023 20:54:33 -0700 (PDT)
+Date: Fri, 11 Aug 2023 20:54:33 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4RN6HF2C9Pz3M9w.1691812473/vps11553.dreamhostps.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <4RN6HF6lsVz3MCr@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4RN6HF2C9Pz3M9w.1691812473/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<masonackroyd@gmail.com>: host gmail-smtp-in.l.google.com[142.251.16.26] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    e16-20020ac85dd0000000b00404b2c39d3fsi3080379qtx.784 - gsmtp (in reply to
+    end of DATA command)
+
+--4RN6HF2C9Pz3M9w.1691812473/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4RN6HF2C9Pz3M9w
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Fri, 11 Aug 2023 20:54:33 -0700 (PDT)
+
+Final-Recipient: rfc822; masonackroyd@gmail.com
+Original-Recipient: rfc822;masonackroyd@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    e16-20020ac85dd0000000b00404b2c39d3fsi3080379qtx.784 - gsmtp
+
+--4RN6HF2C9Pz3M9w.1691812473/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4RN6HF2C9Pz3M9w; Fri, 11 Aug 2023 20:54:33 -0700 (PDT)
+To: masonackroyd@gmail.com
+Subject: =?us-ascii?Q?New_Message_From_David_Ackroyd_Mason,_RI_-_Cont?=
+ =?us-ascii?Q?act_David!?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Sat, 12 Aug 2023 03:54:33 +0000
+From: Carissa Gendron <ronmellojr@gmail.com>
+Reply-To: "\"Carissa Gendron\"" <gendron.carissa@gmail.com>
+Message-ID: <00J8dqbIzF13mDJkr5DVWQdoBIxeJ4Pr5bDZhgBmAg@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.7.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hey there, I just found your site, quick question…
+
+I found hardscaperi.com after doing a quick search – you showed up near the top of the rankings, so whatever you’re doing for SEO, looks like it’s working well.
+
+So here’s my question – what happens AFTER someone lands on your site?  Anything?
+
+Research tells us at least 70% of the people who find your site, after a quick once-over, they disappear… forever.
+
+That means that all the work and effort you put into getting them to show up, goes down the tubes.
+
+Why would you want all that good work – and the great site you’ve built – go to waste?
+
+Because the odds are they’ll just skip over calling or even grabbing their phone, leaving you high and dry.
+
+But here’s a thought… what if you could make it super-simple for someone to raise their hand, say, “okay, let’s talk” without requiring them to even pull their cell phone from their pocket?
+  
+You can – thanks to revolutionary new software that can literally make that first call happen NOW.
+
+TurboLeadGeneration.com is a software widget that sits on your site, ready and waiting to capture any visitor’s Name, Email address and Phone Number.  It lets you know IMMEDIATELY – so that you can talk to that lead while they’re still there at your site.
+  
+You know, strike when the iron’s hot!
+
+CLICK HERE https://TurboLeadGeneration.com to try out a Live Demo with Talk With Web Visitor now to see exactly how it works.
+
+When targeting leads, you HAVE to act fast – the difference between contacting someone within 5 minutes versus 30 minutes later is huge – like 100 times better!
+
+That’s why you should check out our new SMS Text With Lead feature as well… once you’ve captured the phone number of the website visitor, you can automatically kick off a text message (SMS) conversation with them. 
+ 
+Imagine how powerful this could be – even if they don’t take you up on your offer immediately, you can stay in touch with them using text messages to make new offers, provide links to great content, and build your credibility.
+
+Just this alone could be a game changer to make your website even more effective.
+
+Strike when  the iron’s hot!
+
+CLICK HERE https://TurboLeadGeneration.com to learn more about everything Talk With Web Visitor can do for your business – you’ll be amazed.
+
+Thanks and keep up the great work!
+
+PS: TurboLeadGeneration.com offers a FREE 14 days trial – you could be converting up to 100x more leads immediately!   
+It even includes International Long Distance Calling. 
+Stop wasting money chasing eyeballs that don’t turn into paying customers. 
+CLICK HERE https://TurboLeadGeneration.com to try Talk With Web Visitor now.
+
+If you'd like to unsubscribe click here http://TurboLeadGeneration.com/unsubscribe.aspx?d=hardscaperi.com
+
+
+--4RN6HF2C9Pz3M9w.1691812473/vps11553.dreamhostps.com--

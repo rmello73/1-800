@@ -1,0 +1,118 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4RQtTf5wqGz3N0S; Wed, 16 Aug 2023 09:13:10 -0700 (PDT)
+Date: Wed, 16 Aug 2023 09:13:10 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4RQtTf1DxCz3N0J.1692202390/vps11553.dreamhostps.com"
+Message-Id: <4RQtTf5wqGz3N0S@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4RQtTf1DxCz3N0J.1692202390/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<ronmellojr@gmail.com>: host gmail-smtp-in.l.google.com[142.251.16.27] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    r5-20020a05620a298500b00767f2047520si9462772qkp.428 - gsmtp (in reply to
+    end of DATA command)
+
+--4RQtTf1DxCz3N0J.1692202390/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4RQtTf1DxCz3N0J
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Wed, 16 Aug 2023 09:13:10 -0700 (PDT)
+
+Final-Recipient: rfc822; ronmellojr@gmail.com
+Original-Recipient: rfc822;ronmellojr@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    r5-20020a05620a298500b00767f2047520si9462772qkp.428 - gsmtp
+
+--4RQtTf1DxCz3N0J.1692202390/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4RQtTf1DxCz3N0J; Wed, 16 Aug 2023 09:13:10 -0700 (PDT)
+To: ronmellojr@gmail.com
+Subject: [Wordfence Alert] repherred.com Admin Login
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Wed, 16 Aug 2023 16:13:10 +0000
+From: Ref <repherredsal@gmail.com>
+Message-ID: <MZDlR28VbkXa1knXdlI3Jt4yVxy9waRq4yHgU83yOHA@repherred.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.8.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This email was sent from your website "Changing the way you refer businesses" by the Wordfence plugin at Wednesday 16th of August 2023 at 04:13:10 PM
+The Wordfence administrative URL for this site is: https://repherred.com/wp-admin/admin.php?page=Wordfence
+A user with username "ronmellojr@gmail.com" who has administrator access signed in to your WordPress site.
+User IP: 172.58.238.234
+User hostname: ue.tmodns.net
+User location: Brooklyn, New York, United States
+
+
+	NOTE: You are using the free version of Wordfence. Upgrade today:
+ - Receive real-time Firewall and Scan engine rule updates for protection as threats emerge
+ - Real-time IP Blocklist blocks the most malicious IPs from accessing your site
+ - Country blocking
+ - IP reputation monitoring
+ - Schedule scans to run more frequently and at optimal times
+ - Access to Premium Support
+ - Discounts for multi-year and multi-license purchases
+
+Click here to upgrade to Wordfence Premium:
+https://www.wordfence.com/zz1/wordfence-signup/
+--
+To change your alert options for Wordfence, visit:
+https://repherred.com/wp-admin/admin.php?page=Wordfence&subpage=global_options
+To see current Wordfence alerts, visit:
+https://repherred.com/wp-admin/admin.php?page=Wordfence
+
+
+
+No longer an administrator for this site? Click here to stop receiving security alerts: https://repherred.com/?_wfsf=removeAlertEmail&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJvbm1lbGxvanJAZ21haWwuY29tIiwiX2V4cCI6MTY5MjgwNzE5MH0.MHo4uyJyV5cXJFC_N72sQAXKjDuOzRcJ64HdYZGd2uI
+
+
+--4RQtTf1DxCz3N0J.1692202390/vps11553.dreamhostps.com--

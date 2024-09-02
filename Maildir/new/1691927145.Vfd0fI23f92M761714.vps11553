@@ -1,0 +1,105 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4RNwhT5KqJz3NgM; Sun, 13 Aug 2023 04:45:45 -0700 (PDT)
+Date: Sun, 13 Aug 2023 04:45:45 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4RNwhS6HxBz3NgL.1691927145/vps11553.dreamhostps.com"
+Message-Id: <4RNwhT5KqJz3NgM@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4RNwhS6HxBz3NgL.1691927145/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<masonackroyd@gmail.com>: host gmail-smtp-in.l.google.com[142.251.16.26] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    v14-20020a0cdd8e000000b0063d0922b2d4si4422656qvk.359 - gsmtp (in reply to
+    end of DATA command)
+
+--4RNwhS6HxBz3NgL.1691927145/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4RNwhS6HxBz3NgL
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Sun, 13 Aug 2023 04:45:44 -0700 (PDT)
+
+Final-Recipient: rfc822; masonackroyd@gmail.com
+Original-Recipient: rfc822;masonackroyd@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    v14-20020a0cdd8e000000b0063d0922b2d4si4422656qvk.359 - gsmtp
+
+--4RNwhS6HxBz3NgL.1691927145/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4RNwhS6HxBz3NgL; Sun, 13 Aug 2023 04:45:44 -0700 (PDT)
+To: masonackroyd@gmail.com
+Subject: =?us-ascii?Q?New_Message_From_David_Ackroyd_Mason,_RI_-_Cont?=
+ =?us-ascii?Q?act_David!?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Sun, 13 Aug 2023 11:45:44 +0000
+From: Israel <ronmellojr@gmail.com>
+Reply-To: "\"Israel\"" <adamjanus@inbox.com>
+Message-ID: <GRw8vKPJFgQ7cnrJamG5RkyLAv5TzCxJYLlyyKLMTc@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.7.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello, 
+
+I hope this email finds you well. I wanted to let you know about our new BANGE backpacks and sling bags that just released.
+
+The bags are waterproof and anti-theft, and have a built-in USB cable that can recharge your phone while you're on the go.
+
+Both bags are made of durable and high-quality materials, and are perfect for everyday use or travel.
+
+Order yours now at 50% OFF with FREE Shipping: http://bangeshop.com
+
+Many Thanks,
+
+Israel
+
+
+--4RNwhS6HxBz3NgL.1691927145/vps11553.dreamhostps.com--

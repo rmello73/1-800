@@ -1,0 +1,139 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4RmjH30HHsz3Nhy; Thu, 14 Sep 2023 09:20:47 -0700 (PDT)
+Date: Thu, 14 Sep 2023 09:20:47 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4RmjH21SB8z3Nhk.1694708447/vps11553.dreamhostps.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <4RmjH30HHsz3Nhy@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4RmjH21SB8z3Nhk.1694708447/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<masonackroyd@gmail.com>: host gmail-smtp-in.l.google.com[142.251.16.26] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    y12-20020a05622a120c00b00403dd3f7113si1114085qtx.322 - gsmtp (in reply to
+    end of DATA command)
+
+--4RmjH21SB8z3Nhk.1694708447/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4RmjH21SB8z3Nhk
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Thu, 14 Sep 2023 09:20:46 -0700 (PDT)
+
+Final-Recipient: rfc822; masonackroyd@gmail.com
+Original-Recipient: rfc822;masonackroyd@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    y12-20020a05622a120c00b00403dd3f7113si1114085qtx.322 - gsmtp
+
+--4RmjH21SB8z3Nhk.1694708447/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4RmjH21SB8z3Nhk; Thu, 14 Sep 2023 09:20:46 -0700 (PDT)
+To: masonackroyd@gmail.com
+Subject: =?us-ascii?Q?New_Message_From_David_Ackroyd_Mason,_RI_-_Cont?=
+ =?us-ascii?Q?act_David!?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Thu, 14 Sep 2023 16:20:46 +0000
+From: Billy Goldman <ronmellojr@gmail.com>
+Reply-To: "\"Billy Goldman\"" <rpm@solveques.xyz>
+Message-ID: <EeGPGd5ADwM8PhOAuUhXAoJ6spVnKmg32kHw2M9JM@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.8.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+There’s nothing to be embarrassed about.
+
+There is so much new technology and so much to learn…
+
+And there’s an incredible amount of noise online!
+
+Up until now, technically challenged people have had a rough time of it online.
+
+I say up until now, because a brand new technology has just been born.
+
+It’s called auto tags and what it can do will blow you away.
+
+Imagine having a funnel with dozens of buttons, automations, emails and more.
+
+The stress of learning how to put it all together, make sure it’s all connected, editing all the buttons, emails, etc with your own links.
+
+The thought of it is daunting to even a seasoned veteran in the online space like me!
+
+Now imagine, there was a way to have tags in all of those buttons, links, signatures etc.
+
+And all you have to do is enter your name and affiliate links ONCE in one area.
+
+And they’re pulled automagically across every part of your funnel.
+
+No editing required!
+
+Sounds kind of like magic right?
+
+And it does work like magic, and it’s the system my mentor’s been working on for over a year.
+
+Now it’s okay to be a bit technically challenged :)
+
+Plus we have a live weekly call every week to make sure you are supported every step of the way.
+
+Take the first step to creating your affiliate marketing business today by clicking here: https://www.solveques.xyz/rpm 
+
+Kind regards,
+
+Billy Goldman
+
+UNSUBSCRIBE: https://www.solveques.xyz/unsubscribe
+
+Address: 631 N Main St, Porterville, CA 93257
+
+
+--4RmjH21SB8z3Nhk.1694708447/vps11553.dreamhostps.com--

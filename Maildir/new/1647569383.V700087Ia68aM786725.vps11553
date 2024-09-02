@@ -1,0 +1,403 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4KKSBb5Tffz1jyd; Thu, 17 Mar 2022 19:09:43 -0700 (PDT)
+Date: Thu, 17 Mar 2022 19:09:43 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4KKSBZ3Rrnz1kjM.1647569383/vps11553.dreamhostps.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <4KKSBb5Tffz1jyd@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4KKSBZ3Rrnz1kjM.1647569383/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<info@paintshaver.com>: host alt4.aspmx.l.google.com[142.250.153.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser
+    c29-20020a50f61d000000b00418fe90d5e1si2130540edn.431 - gsmtp (in reply to
+    RCPT TO command)
+
+--4KKSBZ3Rrnz1kjM.1647569383/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4KKSBZ3Rrnz1kjM
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Thu, 17 Mar 2022 19:09:42 -0700 (PDT)
+
+Final-Recipient: rfc822; info@paintshaver.com
+Original-Recipient: rfc822;info@paintshaver.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; alt4.aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser
+    c29-20020a50f61d000000b00418fe90d5e1si2130540edn.431 - gsmtp
+
+--4KKSBZ3Rrnz1kjM.1647569383/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4KKSBZ3Rrnz1kjM; Thu, 17 Mar 2022 19:09:42 -0700 (PDT)
+To: info@paintshaver.com
+Subject: Order Confirmation - Order Number 1229
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Fri, 18 Mar 2022 02:09:42 +0000
+From: Sale <info@paintshaver.com>
+Reply-To: chuckzayat@gmail.com
+Message-ID: <n0zHzepncgYYMNpLUPqe2XDSns5NQqKP3rVWRnXog@paintshaver.com>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<style type='text/css'>
+	<!--
+		.style20 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 12px; }
+		.style22 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+		.ec_option_label{font-family: Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold; }
+		.ec_option_name{font-family: Arial, Helvetica, sans-serif; font-size:11px; }
+		.ec_admin_page_break{ page-break-before:always; }
+	-->
+	</style>
+</head>
+<body>
+	<table width='539' border='0' align='center' cellpadding='0' cellspacing='0'>
+				<tr>
+			<td colspan='4' align='left' class='style22'>
+				<a href="https://paintshaver.com/store/" target="_blank"><img src="" alt="Paint Removal | PaintShaver.com" style="max-height:250px; max-width:100%; height:auto;" /></a>
+			</td>
+		</tr>
+		<tr>
+			<td colspan='4' align='left' class='style22'>
+				<p><br>Dear: fgdsg dfgdfgdag:</p>
+
+				<p>Thank you for your order! Your Reference Number is: <strong>1229 ― March 17, 2022</strong></p>
+
+				<p>Below is a summary of order. You can check the status of your order and all the details by visiting our website and logging into your account.</p>
+
+				<p>Please keep this as a record of your order!</p>
+
+				
+				
+				
+				<p>
+					<a href="https://paintshaver.com/account/?ec_page=order_details&order_id=1229&ec_guest_key=ERIWQVURMRWZJCJCSTBPSKJZWRWUJI" target="_blank">
+						Click Here					</a> to View Your Order
+				</p>
+
+								<p><strong>Standard Shipping</strong></p>
+
+				
+								<p>
+					<strong>chuckzayat@gmail.com</strong>
+										<br /><br />
+				</p>
+				
+				
+			</td>
+
+		</tr>
+
+		
+		<tr>
+
+			<td colspan='4' align='left' class='style20'>
+
+				<table width='100%' border='0' align='center' cellpadding='0' cellspacing='0'>
+
+					<tr>
+
+						<td width='47%' bgcolor='#F3F1ED' class='style20'>Billing Address</td>
+
+						<td width='3%'>&nbsp;</td><td width='50%' bgcolor='#F3F1ED' class='style20'>Shipping Address</td>
+
+					</tr>
+
+					<tr>
+
+						<td><span class='style22'>fgdsg dfgdfgdag</span></td>
+
+						<td>&nbsp;</td>
+
+						<td><span class='style22'>fgdsg dfgdfgdag</span></td>
+
+					</tr>
+
+					
+					<tr>
+
+						<td><span class='style22'>dfgsdgsd</span></td>
+
+						<td>&nbsp;</td>
+
+						<td><span class='style22'>dfgsdgsd</span></td>
+
+					</tr>
+
+					
+					<tr>
+
+						<td><span class='style22'>dhsdthsth, RI 00000</span></td>
+
+						<td>&nbsp;</td>
+
+						<td><span class='style22'>dhsdthsth, RI 00000</span></td>
+
+					</tr>
+
+					<tr>
+
+						<td><span class='style22'>United States</span></td>
+
+						<td>&nbsp;</td>
+
+						<td><span class='style22'>United States</span></td>
+
+					</tr>
+
+					<tr>
+
+						<td><span class='style22'>4014869090</span></td>
+
+						<td>&nbsp;</td>
+
+						<td><span class='style22'>4014869090</span></td>
+
+					</tr>
+
+					
+				</table>
+
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td width='269' align='left'>&nbsp;</td>
+
+			<td width='80' align='center'>&nbsp;</td>
+
+			<td width='91' align='center'>&nbsp;</td>
+
+			<td align='center'>&nbsp;</td>
+
+		</tr>
+
+		<tr>
+
+			<td width='269' align='left' bgcolor='#F3F1ED' class='style20'>Product</td>
+
+			<td width='80' align='center' bgcolor='#F3F1ED' class='style20'>Qty</td>
+
+			<td width='91' align='center' bgcolor='#F3F1ED' class='style20'>Price</td>
+
+			<td align='center' bgcolor='#F3F1ED' class='style20'>Ext Price</td>
+
+		</tr>
+
+		
+		<tr>
+
+			<td width='269' class='style22'>
+
+				<table>
+
+					<tr>
+
+												<td>
+														<div style="ec_lineitem_image"><img src="http://paintshaver.com/wp-content/plugins/wp-easycart/design/theme/base-responsive-v3/images/ec_image_not_found.jpg" width="70" alt="TEST " /></div>
+						</td>
+						
+						<td>
+
+							<table>
+
+								<tr>
+
+									<td class='style20'>
+
+										TEST 
+									</td>
+
+								</tr>
+
+								<tr>
+
+									<td class="ec_option_name">
+
+										6891799
+									</td>
+
+								</tr>
+
+								
+								
+								
+								
+								
+								
+								
+							</table>
+
+						</td>
+
+					</tr>
+
+				</table>
+
+			</td>
+
+			<td width='65' align='center' class='style22'>1</td>
+
+			<td width='90' align='center' class='style22'>$1.00</td>
+
+			<td width='90' align='center' class='style22'>$1.00</td>
+
+		</tr>
+
+		
+		<tr>
+
+			<td width='269'>&nbsp;</td>
+
+			<td width='80' align='center'>&nbsp;</td>
+
+			<td width='91' align='center'>&nbsp;</td>
+
+			<td>&nbsp;</td>
+
+		</tr>
+
+		<tr>
+
+			<td width='269'>&nbsp;</td>
+
+			<td width='80' align='center' class='style22'>&nbsp;</td>
+
+			<td width='91' align='center' class='style22'>Subtotal</td>
+
+			<td  align='center'  class='style22'>$1.00</td>
+
+		</tr>
+
+		
+	   
+		<tr>
+
+			<td width='269'>&nbsp;</td>
+
+			<td width='80' align='center' class='style22'>&nbsp;</td>
+
+			<td width='91' align='center' class='style22'>Tax</td>
+
+			<td align='center' class='style22'>$0.07</td>
+
+		</tr>
+
+		
+		
+		<tr>
+
+			<td width='269'>&nbsp;</td>
+
+			<td width='80' align='center' class='style22'>&nbsp;</td>
+
+			<td width='91' align='center' class='style22'>Shipping</td>
+
+			<td  align='center'  class='style22'>$0.00</td>
+
+		</tr>
+
+		
+		
+		
+		
+		
+		
+		
+		<tr>
+
+			<td width='269'>&nbsp;</td>
+
+			<td width='80' align='center' class='style22'>&nbsp;</td>
+
+			<td width='91' align='center' class='style22'><strong>Order Total</strong></td>
+
+			<td align='center' class='style22'><strong>$1.07</strong></td>
+
+		</tr>
+
+		
+		<tr>
+
+			<td colspan='4' class='style22'>
+
+				<p><br>
+
+				
+				Please double check your order when you receive it and let us know immediately if there are any concerns or issues. We always value your business and hope you enjoy your product.<br><br>Thank you very much!</p>
+
+				<p>&nbsp;</p>
+
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td colspan='4'>
+
+			</td>
+
+		</tr>
+
+	</table>
+
+</body>
+
+</html>
+
+
+--4KKSBZ3Rrnz1kjM.1647569383/vps11553.dreamhostps.com--

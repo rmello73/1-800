@@ -1,0 +1,184 @@
+[2023-05-31 23:24:12] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Support\\Collection\" not found at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php:109)
+[stacktrace]
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(240): collect(Array)
+#1 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(202): Illuminate\\Log\\LogManager->createStackDriver(Array)
+#2 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(118): Illuminate\\Log\\LogManager->resolve('stack')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\\Log\\LogManager->get('stack')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(547): Illuminate\\Log\\LogManager->driver()
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(124): Illuminate\\Log\\LogManager->error('During inherita...', Array)
+#6 /home/ronmel5/1-800/app/Exceptions/Handler.php(35): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(92): App\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleException(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#9 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleShutdown()
+#10 {main}
+"} 
+[2023-05-31 23:24:12] laravel.ERROR: During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap(Object(Illuminate\Foundation\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\Foundation\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#12 {main} {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\\Support\\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\\Autoload\\ClassLoader->loadClass('Illuminate\\\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\\Foundation\\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#12 {main} at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-31 23:24:13] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Support\\Collection\" not found at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php:109)
+[stacktrace]
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(240): collect(Array)
+#1 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(202): Illuminate\\Log\\LogManager->createStackDriver(Array)
+#2 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(118): Illuminate\\Log\\LogManager->resolve('stack')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\\Log\\LogManager->get('stack')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(547): Illuminate\\Log\\LogManager->driver()
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(124): Illuminate\\Log\\LogManager->error('During inherita...', Array)
+#6 /home/ronmel5/1-800/app/Exceptions/Handler.php(35): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(92): App\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleException(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#9 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleShutdown()
+#10 {main}
+"} 
+[2023-05-31 23:24:13] laravel.ERROR: During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap(Object(Illuminate\Foundation\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\Foundation\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#12 {main} {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\\Support\\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\\Autoload\\ClassLoader->loadClass('Illuminate\\\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\\Foundation\\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#12 {main} at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-31 23:24:13] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Support\\Collection\" not found at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php:109)
+[stacktrace]
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(240): collect(Array)
+#1 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(202): Illuminate\\Log\\LogManager->createStackDriver(Array)
+#2 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(118): Illuminate\\Log\\LogManager->resolve('stack')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\\Log\\LogManager->get('stack')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(547): Illuminate\\Log\\LogManager->driver()
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(124): Illuminate\\Log\\LogManager->error('During inherita...', Array)
+#6 /home/ronmel5/1-800/app/Exceptions/Handler.php(35): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(92): App\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleException(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#9 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleShutdown()
+#10 {main}
+"} 
+[2023-05-31 23:24:13] laravel.ERROR: During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap(Object(Illuminate\Foundation\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\Foundation\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#12 {main} {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\\Support\\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\\Autoload\\ClassLoader->loadClass('Illuminate\\\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\\Foundation\\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#12 {main} at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-31 23:24:14] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Support\\Collection\" not found at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php:109)
+[stacktrace]
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(240): collect(Array)
+#1 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(202): Illuminate\\Log\\LogManager->createStackDriver(Array)
+#2 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(118): Illuminate\\Log\\LogManager->resolve('stack')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\\Log\\LogManager->get('stack')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(547): Illuminate\\Log\\LogManager->driver()
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(124): Illuminate\\Log\\LogManager->error('During inherita...', Array)
+#6 /home/ronmel5/1-800/app/Exceptions/Handler.php(35): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(92): App\\Exceptions\\Handler->report(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleException(Object(Symfony\\Component\\Debug\\Exception\\FatalErrorException))
+#9 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleShutdown()
+#10 {main}
+"} 
+[2023-05-31 23:24:14] laravel.ERROR: During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap(Object(Illuminate\Foundation\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\Foundation\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#12 {main} {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\\Support\\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8192, 'Return type of ...', '/home/ronmel5/1...', 1277)
+#1 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(444): include('/home/ronmel5/1...')
+#2 /home/ronmel5/1-800/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile('/home/ronmel5/1...')
+#3 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\\Autoload\\ClassLoader->loadClass('Illuminate\\\\Supp...')
+#4 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect(Array)
+#5 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\\Foundation\\PackageManifest->config('aliases')
+#6 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#7 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#8 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#9 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#10 /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#11 /home/ronmel5/1-800/index.php(57): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#12 {main} at /home/ronmel5/1-800/vendor/laravel/framework/src/Illuminate/Support/Collection.php:11)
+[stacktrace]
+#0 {main}
+"} 

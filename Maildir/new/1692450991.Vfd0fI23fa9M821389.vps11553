@@ -1,0 +1,119 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4RSfQR5hHtz3NHq; Sat, 19 Aug 2023 06:16:31 -0700 (PDT)
+Date: Sat, 19 Aug 2023 06:16:31 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4RSfQR0TFkz3NHp.1692450991/vps11553.dreamhostps.com"
+Message-Id: <4RSfQR5hHtz3NHq@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4RSfQR0TFkz3NHp.1692450991/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<ronmellojr@gmail.com>: host gmail-smtp-in.l.google.com[142.251.167.27] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    w17-20020ac87e91000000b00400916ca8a4si2568655qtj.353 - gsmtp (in reply to
+    end of DATA command)
+
+--4RSfQR0TFkz3NHp.1692450991/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4RSfQR0TFkz3NHp
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Sat, 19 Aug 2023 06:16:31 -0700 (PDT)
+
+Final-Recipient: rfc822; ronmellojr@gmail.com
+Original-Recipient: rfc822;ronmellojr@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    w17-20020ac87e91000000b00400916ca8a4si2568655qtj.353 - gsmtp
+
+--4RSfQR0TFkz3NHp.1692450991/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4RSfQR0TFkz3NHp; Sat, 19 Aug 2023 06:16:31 -0700 (PDT)
+To: ronmellojr@gmail.com
+Subject: =?us-ascii?Q?[Wordfence_Alert]_dev.lenoxproperty.com/cpd_Admi?=
+ =?us-ascii?Q?n_Login?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Sat, 19 Aug 2023 13:16:31 +0000
+From: Corey Pono Design <ronmellojr@gmail.com>
+Message-ID: <N9jtFGEZQkKlcJFrFrN8jvZHfQZQ8IpNNNbLFvChcmk@dev.lenoxproperty.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.8.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This email was sent from your website "Corey Pono Design" by the Wordfence plugin at Saturday 19th of August 2023 at 01:16:31 PM
+The Wordfence administrative URL for this site is: https://dev.lenoxproperty.com/cpd/wp-admin/admin.php?page=Wordfence
+A user with username "rmd2022" who has administrator access signed in to your WordPress site.
+User IP: 72.215.48.162
+User hostname: wsip-72-215-48-162.ri.ri.cox.net
+User location: Providence, Rhode Island, United States
+
+
+	NOTE: You are using the free version of Wordfence. Upgrade today:
+ - Receive real-time Firewall and Scan engine rule updates for protection as threats emerge
+ - Real-time IP Blocklist blocks the most malicious IPs from accessing your site
+ - Country blocking
+ - IP reputation monitoring
+ - Schedule scans to run more frequently and at optimal times
+ - Access to Premium Support
+ - Discounts for multi-year and multi-license purchases
+
+Click here to upgrade to Wordfence Premium:
+https://www.wordfence.com/zz1/wordfence-signup/
+--
+To change your alert options for Wordfence, visit:
+https://dev.lenoxproperty.com/cpd/wp-admin/admin.php?page=Wordfence&subpage=global_options
+To see current Wordfence alerts, visit:
+https://dev.lenoxproperty.com/cpd/wp-admin/admin.php?page=Wordfence
+
+
+
+No longer an administrator for this site? Click here to stop receiving security alerts: https://dev.lenoxproperty.com/cpd/?_wfsf=removeAlertEmail&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJvbm1lbGxvanJAZ21haWwuY29tIiwiX2V4cCI6MTY5MzA1NTc5MX0.Dmka-p2cfr-u5dGrABL8uwQ0pMRCmPzI9RYDmV8UxX0
+
+
+--4RSfQR0TFkz3NHp.1692450991/vps11553.dreamhostps.com--

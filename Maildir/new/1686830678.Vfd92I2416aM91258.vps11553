@@ -1,0 +1,125 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4QhgvV0YXgz3GS4; Thu, 15 Jun 2023 05:04:38 -0700 (PDT)
+Date: Thu, 15 Jun 2023 05:04:38 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4QhgvT4NwNz3GP5.1686830678/vps11553.dreamhostps.com"
+Message-Id: <4QhgvV0YXgz3GS4@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4QhgvT4NwNz3GP5.1686830678/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<ronmellojr@gmail.com>: host gmail-smtp-in.l.google.com[142.251.163.27] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    a25-20020a05620a16d900b0075cc5fc2fb0si9448900qkn.341 - gsmtp (in reply to
+    end of DATA command)
+
+--4QhgvT4NwNz3GP5.1686830678/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4QhgvT4NwNz3GP5
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Thu, 15 Jun 2023 05:04:37 -0700 (PDT)
+
+Final-Recipient: rfc822; ronmellojr@gmail.com
+Original-Recipient: rfc822;ronmellojr@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    a25-20020a05620a16d900b0075cc5fc2fb0si9448900qkn.341 - gsmtp
+
+--4QhgvT4NwNz3GP5.1686830678/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4QhgvT4NwNz3GP5; Thu, 15 Jun 2023 05:04:37 -0700 (PDT)
+To: ronmellojr@gmail.com
+Subject: =?us-ascii?Q?[Wordfence_Alert]_Problems_found_on_hardscaperi?=
+ =?us-ascii?Q?.com?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Thu, 15 Jun 2023 12:04:37 +0000
+From: "David Ackroyd Mason, RI" <ronmellojr@gmail.com>
+Message-ID: <C0QinT0PwMr84p8nL7KMWkw8v4btJl8BLPqermGhpvo@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.7.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<p>This email was sent from your website &quot;David Ackroyd Mason, RI&quot; by the Wordfence plugin.</p>
+
+<p>Wordfence found the following new issues on "David Ackroyd Mason, RI" (3 existing issues were also found again).</p>
+
+<p>Alert generated at Thursday 15th of June 2023 at 12:04:37 PM</p>
+
+<br>
+
+<p>See the details of these scan results on your site at: https://hardscaperi.com/wp-admin/admin.php?page=WordfenceScan</p>
+
+
+
+
+<p>Medium Severity Problems:</p>
+<p>* The Plugin &quot;Really Simple SSL&quot; needs an upgrade (6.2.3 -&gt; 7.0.4).</p>
+<p>https://wordpress.org/plugins/really-simple-ssl/#developers</p>
+
+
+<p>3 existing issues were found again and are not shown.</p>
+	<p>NOTE: You are using the free version of Wordfence. Upgrade today:</p>
+	
+	<ul>
+		<li>Receive real-time Firewall and Scan engine rule updates for protection as threats emerge</li>
+		<li>Real-time IP Blocklist blocks the most malicious IPs from accessing your site</li>
+		<li>Country blocking</li>
+		<li>IP reputation monitoring</li>
+		<li>Schedule scans to run more frequently and at optimal times</li>
+		<li>Access to Premium Support</li>
+		<li>Discounts for multi-year and multi-license purchases</li>
+	</ul>
+
+	<p>Click here to upgrade to Wordfence Premium:<br><a href="https://www.wordfence.com/zz2/wordfence-signup/">https://www.wordfence.com/zz2/wordfence-signup/</a></p>
+
+<p>No longer an administrator for this site? <a href="https://hardscaperi.com/?_wfsf=removeAlertEmail&amp;jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJvbm1lbGxvanJAZ21haWwuY29tIiwiX2V4cCI6MTY4NzQzNTQ3N30.jam-kqgUIChquyGbwUC5VcRJyKVsmJ7OwdYOUhq8t94" target="_blank">Click here</a> to stop receiving security alerts.</p>
+
+
+--4QhgvT4NwNz3GP5.1686830678/vps11553.dreamhostps.com--

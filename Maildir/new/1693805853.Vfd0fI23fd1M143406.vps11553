@@ -1,0 +1,109 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4RfHTT0tC0z3Mtt; Sun,  3 Sep 2023 22:37:33 -0700 (PDT)
+Date: Sun,  3 Sep 2023 22:37:33 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4RfHTS3PHnz3Mtr.1693805853/vps11553.dreamhostps.com"
+Message-Id: <4RfHTT0tC0z3Mtt@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4RfHTS3PHnz3Mtr.1693805853/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<masonackroyd@gmail.com>: host gmail-smtp-in.l.google.com[142.251.16.27] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    x17-20020a0ce251000000b0063d3882af9bsi5865579qvl.127 - gsmtp (in reply to
+    end of DATA command)
+
+--4RfHTS3PHnz3Mtr.1693805853/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4RfHTS3PHnz3Mtr
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Sun,  3 Sep 2023 22:37:32 -0700 (PDT)
+
+Final-Recipient: rfc822; masonackroyd@gmail.com
+Original-Recipient: rfc822;masonackroyd@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    x17-20020a0ce251000000b0063d3882af9bsi5865579qvl.127 - gsmtp
+
+--4RfHTS3PHnz3Mtr.1693805853/vps11553.dreamhostps.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4RfHTS3PHnz3Mtr; Sun,  3 Sep 2023 22:37:32 -0700 (PDT)
+To: masonackroyd@gmail.com
+Subject: =?us-ascii?Q?New_Message_From_David_Ackroyd_Mason,_RI_-_Cont?=
+ =?us-ascii?Q?act_David!?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Mon, 4 Sep 2023 05:37:32 +0000
+From: Georgina Haynes <ronmellojr@gmail.com>
+Reply-To: "\"Georgina Haynes\"" <georginahaynes620@gmail.com>
+Message-ID: <sDPp9lGaG7t9Fn8DlPuiPd392siv0zSea94pj466km0@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.8.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi,
+
+We'd like to introduce to you our explainer video service, which we feel can benefit your site hardscaperi.com.
+
+Check out some of our existing videos here:
+https://www.youtube.com/watch?v=bWz-ELfJVEI
+https://www.youtube.com/watch?v=Y46aNG-Y3rM
+https://www.youtube.com/watch?v=hJCFX1AjHKk
+
+Our prices start from as little as $195 and include a professional script and voice-over.
+
+If this is something you would like to discuss further, don't hesitate to reply.
+
+Kind Regards,
+Georgina
+
+If you are not interested, unsubscribe here: https://explainervideos4u.net/unsubscribe.php?d=hardscaperi.com
+
+
+--4RfHTS3PHnz3Mtr.1693805853/vps11553.dreamhostps.com--

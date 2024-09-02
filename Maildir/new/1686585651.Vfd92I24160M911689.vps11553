@@ -1,0 +1,89 @@
+Return-Path: <>
+X-Original-To: ronmel5@vps11553.dreamhostps.com
+Delivered-To: ronmel5@vps11553.dreamhostps.com
+Received: by vps11553.dreamhostps.com (Postfix)
+	id 4QfxHR6RWnz3L1S; Mon, 12 Jun 2023 09:00:51 -0700 (PDT)
+Date: Mon, 12 Jun 2023 09:00:51 -0700 (PDT)
+From: MAILER-DAEMON@vps11553.dreamhostps.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ronmel5@vps11553.dreamhostps.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4QfxHR2xd8z3L1H.1686585651/vps11553.dreamhostps.com"
+Message-Id: <4QfxHR6RWnz3L1S@vps11553.dreamhostps.com>
+
+This is a MIME-encapsulated message.
+
+--4QfxHR2xd8z3L1H.1686585651/vps11553.dreamhostps.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host vps11553.dreamhostps.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<ronmellojr@gmail.com>: host gmail-smtp-in.l.google.com[172.253.62.27] said:
+    550-5.7.26 Unauthenticated email from gmail.com is not accepted due to
+    domain's 550-5.7.26 DMARC policy. Please contact the administrator of
+    gmail.com domain 550-5.7.26 if this was a legitimate mail. Please visit
+    550-5.7.26  https://support.google.com/mail/answer/2451690 to learn about
+    the 550 5.7.26 DMARC initiative.
+    fo10-20020ad45f0a000000b006236d96c8e3si6412486qvb.348 - gsmtp (in reply to
+    end of DATA command)
+
+--4QfxHR2xd8z3L1H.1686585651/vps11553.dreamhostps.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps11553.dreamhostps.com
+X-Postfix-Queue-ID: 4QfxHR2xd8z3L1H
+X-Postfix-Sender: rfc822; ronmel5@vps11553.dreamhostps.com
+Arrival-Date: Mon, 12 Jun 2023 09:00:51 -0700 (PDT)
+
+Final-Recipient: rfc822; ronmellojr@gmail.com
+Original-Recipient: rfc822;ronmellojr@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Unauthenticated email from gmail.com is not
+    accepted due to domain's 550-5.7.26 DMARC policy. Please contact the
+    administrator of gmail.com domain 550-5.7.26 if this was a legitimate mail.
+    Please visit 550-5.7.26  https://support.google.com/mail/answer/2451690 to
+    learn about the 550 5.7.26 DMARC initiative.
+    fo10-20020ad45f0a000000b006236d96c8e3si6412486qvb.348 - gsmtp
+
+--4QfxHR2xd8z3L1H.1686585651/vps11553.dreamhostps.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <ronmel5@vps11553.dreamhostps.com>
+Received: by vps11553.dreamhostps.com (Postfix, from userid 5950722)
+	id 4QfxHR2xd8z3L1H; Mon, 12 Jun 2023 09:00:51 -0700 (PDT)
+To: ronmellojr@gmail.com
+Subject: =?us-ascii?Q?Wordfence_activity_for_June_12,_2023_on_hardsca?=
+ =?us-ascii?Q?peri.com?=
+X-PHP-Originating-Script: 5950722:PHPMailer.php
+Date: Mon, 12 Jun 2023 16:00:51 +0000
+From: "David Ackroyd Mason, RI" <ronmellojr@gmail.com>
+Message-ID: <cGYde75KZwl7S0jzMje4jBobhLZ7gMVnwWwF59vA1E@hardscaperi.com>
+X-Mailer: WPMailSMTP/Mailer/mail 3.7.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+--4QfxHR2xd8z3L1H.1686585651/vps11553.dreamhostps.com--
