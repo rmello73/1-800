@@ -850,6 +850,6 @@ var ads = {!! json_encode($map_ads->toArray()) !!};
       function doNothing() {}
     </script>
     <script async
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZX8lkx1Dx4cZxNPicTYfZBNKAxkLhaZM&loading=async&callback=initMap">
+        src="https://maps.googleapis.com/maps/api/js?key=<YOUR KEY>&loading=async&callback=initMap">
     </script>
 @endsection
