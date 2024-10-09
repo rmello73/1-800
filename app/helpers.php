@@ -301,7 +301,7 @@ function themeqx_distance_measure($meters = 0){
 }
 
 function themeqx_classifieds_currencies(){
-    return array(
+    return [
         'AED' => 'United Arab Emirates dirham',
         'AFN' => 'Afghan afghani',
         'ALL' => 'Albanian lek',
@@ -462,7 +462,7 @@ function themeqx_classifieds_currencies(){
         'YER' => 'Yemeni rial',
         'ZAR' => 'South African rand',
         'ZMW' => 'Zambian kwacha',
-    );
+    ];
     
 }
 

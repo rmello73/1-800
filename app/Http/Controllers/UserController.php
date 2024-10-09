@@ -2127,7 +2127,7 @@ class UserController extends Controller
 	    $user = User::find($user_id);
 
         $rating = new Rating;
-        $rating->rateable_type = 'App\User';
+        $rating->rateable_type = \App\User::class;
         $rating->rating = $request->rating;
         $rating->user_id = $user_id;
         $rating->rateable_id = $request->rateable_id;
