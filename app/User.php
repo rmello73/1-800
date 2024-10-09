@@ -32,7 +32,7 @@ class User extends Authenticatable
         return $this->belongsTo(Country::class);
     }
             
-            public function get_photo( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
+            public function get_photo( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = [] ) {
             
             	$email = $this->email;
             	$url = 'http://www.gravatar.com/avatar/';
@@ -53,7 +53,7 @@ class User extends Authenticatable
             	return $url;
             }
             
-            public function get_photo2( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
+            public function get_photo2( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = [] ) {
             
             	$email = $this->email;
             	$url = 'http://www.gravatar.com/avatar/';
@@ -74,7 +74,7 @@ class User extends Authenticatable
             	return $url;
             }
             
-            public function get_photo3( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
+            public function get_photo3( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = [] ) {
             
             	$email = $this->email;
             	$url = 'http://www.gravatar.com/avatar/';
@@ -95,7 +95,7 @@ class User extends Authenticatable
             	return $url;
             }
             
-            public function get_photo4( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
+            public function get_photo4( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = [] ) {
             
             	$email = $this->email;
             	$url = 'http://www.gravatar.com/avatar/';
@@ -116,7 +116,7 @@ class User extends Authenticatable
             	return $url;
             }
             
-            public function get_photo5( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
+            public function get_photo5( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = [] ) {
             
             	$email = $this->email;
             	$url = 'http://www.gravatar.com/avatar/';
@@ -137,7 +137,7 @@ class User extends Authenticatable
             	return $url;
             }
             
-            public function get_photo6( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
+            public function get_photo6( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = [] ) {
             
             	$email = $this->email;
             	$url = 'http://www.gravatar.com/avatar/';
@@ -158,7 +158,7 @@ class User extends Authenticatable
             	return $url;
             }
             
-            public function get_agent_logo( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = array() ) {
+            public function get_agent_logo( $s = 40, $d = 'mm', $r = 'g', $img = false, $atts = [] ) {
             
             	$email = $this->email;
             	$url = 'http://www.gravatar.com/avatar/';

@@ -26,6 +26,6 @@ class UploadController extends Controller
 
     	endif;
 
-    	return \Response::json(array('success' => true));
+    	return \Response::json(['success' => true]);
     }
 }
